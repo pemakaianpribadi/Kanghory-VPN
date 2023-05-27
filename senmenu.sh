@@ -10,7 +10,7 @@ wget -q -O /usr/bin/add-vless "https://raw.githubusercontent.com/kanghory/VPN/ma
 wget -q -O /usr/bin/add-tr "https://raw.githubusercontent.com/kanghory/VPN/main/add-tr.sh"
 wget -q -O /usr/bin/add-trgo "https://raw.githubusercontent.com/kanghory/VPN/main/add-trgo.sh"
 wget -q -O /usr/bin/autoreboot "https://raw.githubusercontent.com/kanghory/VPN/main/autoreboot.sh"
-wget -q -O /usr/bin/restart "https://raw.githubusercontent.com/kanghory/VPN/main/restart.sh"
+wget -q -O /usr/bin/restart "https://raw.githubusercontent.com/kanghoryVPN/VPN/main/restart.sh"
 wget -q -O /usr/bin/tendang "https://raw.githubusercontent.com/kanghory/VPN/main/tendang.sh"
 wget -q -O /usr/bin/clearlog "https://raw.githubusercontent.com/kanghory/VPN/main/clearlog.sh"
 wget -q -O /usr/bin/running "https://raw.githubusercontent.com/kanghory/VPN/main/running.sh"
