@@ -28,7 +28,7 @@ wget -q -O /usr/bin/menu-trojan "https://raw.githubusercontent.com/kanghory/VPN/
 wget -q -O /usr/bin/menu-ssh "https://raw.githubusercontent.com/kanghoryVPN/Autoscript-by-azi/main/menu-ssh.sh"
 #wget -q -O /usr/bin/menu-bckp "https://raw.githubusercontent.com/Agunxzzz/XrayCol/main/minacantik/menu-bckp-telegram.sh"
 wget -q -O /usr/bin/menu-backup "https://raw.githubusercontent.com/kanghory/VPN/main/menu-backup.sh"
-wget -q -O /usr/bin/slowdns "https://raw.githubusercontent.com/Azigaming404/autoscript-ssh-slowdns/main/slowdns.sh"
+wget -q -O /usr/bin/slowdns "https://raw.githubusercontent.com/kanghoryVPN/autoscript-ssh-slowdns/main/slowdns.sh"
 wget -q -O /usr/bin/usernew "https://raw.githubusercontent.com/kanghory/VPN/main/usernew.sh"
 wget -q -O /usr/bin/menu "https://raw.githubusercontent.com/kanghory/VPN/main/menu.sh"
 wget -q -O /usr/bin/wbm "https://raw.githubusercontent.com/kanghory/VPN/main/webmin.sh"
@@ -46,7 +46,7 @@ wget -q -O /usr/bin/backup "https://raw.githubusercontent.com/kanghory/VPN/main/
 wget -q -O /usr/bin/renel "https://raw.githubusercontent.com/kanghory/VPN/main/renel.sh"
 wget -q -O /usr/bin/cekl "https://raw.githubusercontent.com/kanghory/VPN/main/cekl.sh"
 wget -q -O /usr/bin/dell "https://raw.githubusercontent.com/kanghory/VPN/main/dell.sh"
-wget -q -O /usr/bin/ns-menu "https://raw.githubusercontent.com/Azigaming404/Autoscript-by-azi/main/autoscript-ssh-slowdns-main/slowdns.sh && chmod +x slowdns.sh && ./slowdns.sh"
+wget -q -O /usr/bin/ns-menu "https://raw.githubusercontent.com/kanghoryVPN/Autoscript-by-azi/main/autoscript-ssh-slowdns-main/slowdns.sh && chmod +x slowdns.sh && ./slowdns.sh"
 wget https://raw.githubusercontent.com/kanghory/VPN/main/backup/set-br.sh
 bash set-br.sh
 chmod +x /usr/bin/menu-backup
