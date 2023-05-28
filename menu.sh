@@ -235,7 +235,7 @@ echo
 read -p " Select menu : " opt
 echo -e ""
 case $opt in
-1) clear ; menu-ssh ;;
+1) clear ; menun-ssh ;;
 2) clear ; menu-vmess ;;
 3) clear ; menu-vless ;;
 4) clear ; menu-trojan ;;
@@ -243,7 +243,7 @@ case $opt in
 6) clear ; menu-backup ;;
 7) clear ; autoreboot ;;
 8) clear ; reboot ;;
-9) clear ; restart ;;
+9) clear ; restarts ;;
 10) clear ; trialssh ;;
 11) clear ; addhost ;;
 12) clear ; genssl ;;
