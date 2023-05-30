@@ -1,5 +1,6 @@
 
 # SC By kanghoryVPN versi Pertama Fix (SANTRI JOWO)
+![logo](https://raw.githubusercontent.com/kanghory/VPN/main/SS1.jpg)
 # Autoscript SSH WEBSOCKET MULTIPORT 443 & 80
 
 ## SLOWDNS ON
