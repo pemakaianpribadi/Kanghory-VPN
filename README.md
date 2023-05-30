@@ -24,7 +24,10 @@ wa.me/+6285225171738
   ```html
 wa.me/+6285225171738
   ```  
-
+## Jika ingin instal SSH UDP
+```
+wa.me/+6285225171738
+ ```
 ## Fitur:
 <br>
 ✅ SSH WEBSOCKET TLS & NON-TLS 443/80 MULTIPATH<br>
