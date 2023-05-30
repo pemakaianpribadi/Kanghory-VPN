@@ -12,7 +12,7 @@
 ![logo](https://raw.githubusercontent.com/kanghory/VPN/main/SS.jpg)
 ## Step 1 update your vps frist
 ```
- apt-get update && apt-get upgrade -y && apt dist-upgrade -y && update-grub && reboot
+apt-get update && apt-get upgrade -y && apt dist-upgrade -y && update-grub && reboot
  ```
 ## Installation Link<br>
 
