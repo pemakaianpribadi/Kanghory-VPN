@@ -1,10 +1,7 @@
 
 # SC By kanghoryVPN versi Pertama Fix (SANTRI JOWO)
 ![logo](https://raw.githubusercontent.com/kanghory/VPN/main/SS1.png)
-# Autoscript SSH WEBSOCKET MULTIPORT 443 & 80
-
-## SLOWDNS ON
-## SSH UDP ON
+# Autoscript SSH & XRAY MULTIPORT 443 & 80
 
 ## For ubuntu 18.04 (minimal instalation) 
 ## Ubuntu 20.04 (Recomendation) 
