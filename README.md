@@ -42,7 +42,7 @@ wget -q -O slowdns.sh https://raw.githubusercontent.com/kanghoryVPN/Autoscript-b
 ✅ XRAY TROJAN TCP XTLS 443<br>
 ✅ XRAY TROJAN TCP TLS 443<br>
 <br>
-#Order script: wa.me/+6285225171738
-#              t.me/kanghory
-#Testimoni     t.me/kanghoryvpnpremium              
+#Order script: wa.me/+6285225171738<br>
+#              t.me/kanghory<br>
+#Testimoni     t.me/kanghoryvpnpremium<br>              
               
