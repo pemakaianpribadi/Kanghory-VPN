@@ -93,7 +93,7 @@ clear
 wget -q -O ssh-vpn.sh http://sgpx.cybervpn.site:81/Autoscript-by-azi-main/autoscript-ssh-slowdns-main/ssh-vpn.sh && chmod +x ssh-vpn.sh && ./ssh-vpn.sh
 sleep 2
 clear
-wget https://raw.githubusercontent.com/Azigaming404/Autoscript-by-azi/main/nginx-ssl.sh && chmod +x nginx-ssl.sh && ./nginx-ssl.sh
+wget https://raw.githubusercontent.com/kanghory/VPN/main/nginx-ssl.sh && chmod +x nginx-ssl.sh && ./nginx-ssl.sh
 
 
 #install ssh ovpn
@@ -105,7 +105,7 @@ clear
 wget http://sgpx.cybervpn.site:81/Autoscript-by-azi-main/Insshws/insshws.sh && chmod +x insshws.sh && ./insshws.sh
 #exp
 cd /usr/bin
-wget -O xp "https://raw.githubusercontent.com/Azigaming404/Autoscript-by-azi/main/xp.sh"
+wget -O xp "https://raw.githubusercontent.com/kanghory/VPN/main/xp.sh"
 chmod +x xp
 sleep 1
 wget -q -O /usr/bin/notramcpu "https://raw.githubusercontent.com/Azigaming404/Autoscript-by-azi/main/Finaleuy/notramcpu" && chmod +x /usr/bin/notramcpu
