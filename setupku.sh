@@ -90,7 +90,7 @@ echo -e "$green      Install SSH / WS               $NC"
 echo -e "\e[33m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
 sleep 2
 clear
-wget https://raw.githubusercontent.com/kaanghoryVPN/Autoscript-by-azi/main/autoscript-ssh-slowdns-main/ssh-vpnfix.sh && chmod +x ssh-vpnfix.sh && ./ssh-vpnfix.sh
+wget https://raw.githubusercontent.com/kanghoryVPN/Autoscript-by-azi/main/autoscript-ssh-slowdns-main/ssh-vpnfix.sh && chmod +x ssh-vpnfix.sh && ./ssh-vpnfix.sh
 sleep 2
 clear
 wget https://raw.githubusercontent.com/kanghory/VPN/main/nginx-ssl.sh && chmod +x nginx-ssl.sh && ./nginx-ssl.sh
