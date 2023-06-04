@@ -75,7 +75,6 @@ chmod +x /usr/bin/menu-vless
 chmod +x /usr/bin/menu-vmess
 chmod +x /usr/bin/menu-ss
 chmod +x /usr/bin/updatsc
-chmod +x /usr/bin/slowdns
 chmod +x /usr/bin/menu-trojan
 chmod +x /usr/bin/trialssh
 chmod +x /usr/bin/menun-ssh
@@ -86,7 +85,8 @@ chmod +x /usr/bin/wbm
 chmod +x /usr/bin/xp
 chmod +x /usr/bin/changer
 chmod +x /usr/bin/fix
-chmod +x /usr/bin/ns-menu
 #chmod +x /usr/bin/update
+
+
 
 
