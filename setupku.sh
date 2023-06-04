@@ -218,7 +218,7 @@ echo ""
 echo ""
 echo "------------------------------------------------------------"
 echo ""
-echo "===============-[ Script Credit By CyberVPN ]-==============="
+echo "===============-[ Script Credit By kanghoryVPN ]-==============="
 echo -e ""
 echo ""
 echo "" | tee -a log-install.txt
