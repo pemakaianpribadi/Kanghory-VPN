@@ -108,7 +108,7 @@ cd /usr/bin
 wget -O xp "https://raw.githubusercontent.com/kanghory/VPN/main/xp.sh"
 chmod +x xp
 sleep 1
-wget -q -O /usr/bin/notramcpu "https://raw.githubusercontent.com/Azigaming404/Autoscript-by-azi/main/Finaleuy/notramcpu" && chmod +x /usr/bin/notramcpu
+wget -q -O /usr/bin/notramcpu "https://raw.githubusercontent.com/kanghory/VPN/main/Finaleuy/notramcpu" && chmod +x /usr/bin/notramcpu
 
 cd
 #remove log 
@@ -125,7 +125,7 @@ echo -e "\e[33m━━━━━━━━━━━━━━━━━━━━━�
 sleep 2
 wget -q -O ins-xray.sh http://sgpx.cybervpn.site:81/Autoscript-by-azi-main/ins-xray.sh && chmod +x ins-xray.sh && ./ins-xray.sh
 sleep 1
-wget -q -O senmenu.sh https://raw.githubusercontent.com/Pakhaji30/Autoscript-vpn/main/senmenu.sh && chmod +x senmenu.sh && ./senmenu.sh
+wget -q -O senmenu.sh https://raw.githubusercontent.com/kanghory/VPN/main/senmenu.sh && chmod +x senmenu.sh && ./senmenu.sh
 echo -e "\e[33m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
 echo -e "$green      Install openvpn              $NC"
 echo -e "\e[33m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
