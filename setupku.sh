@@ -90,7 +90,7 @@ echo -e "$green      Install SSH / WS               $NC"
 echo -e "\e[33m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
 sleep 2
 clear
-wget https://raw.githubusercontent.com/kanghory/VPN/main/ssh-vpns.sh && chmod +x ssh-vpns.sh && ./ssh-vpns.sh
+wget https://raw.githubusercontent.com/kanghory/VPN-3/main/ssh/ssh-vpn.sh && chmod +x ssh-vpn.sh && ./ssh-vpn.sh
 sleep 2
 clear
 wget https://raw.githubusercontent.com/kanghory/VPN/main/nginx-ssl.sh && chmod +x nginx-ssl.sh && ./nginx-ssl.sh
