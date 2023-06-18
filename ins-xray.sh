@@ -127,7 +127,7 @@ install_ssl(){
 
 # install nginx
 mkdir -p /home/vps/public_html
-wget -q -O /etc/nginx/conf.d/vps.conf "https://raw.githubusercontent.com/Agunxzzz/XrayCol/main/vps.conf.txt"
+wget -q -O /etc/nginx/conf.d/vps.conf "https://raw.githubusercontent.com/kanghory/VPN/main/vps.conf.txt"
 sleep 1
 wget -q -O xraymode.sh https://raw.githubusercontent.com/kanghory/VPN/main/xraymode.sh && chmod +x xraymode.sh && ./xraymode.sh
 sleep 1 
