@@ -21,4 +21,3 @@ chmod +x /usr/local/bin/xray
 
 systemctl restart xray
 sleep 0.5
-ok
