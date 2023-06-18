@@ -129,7 +129,7 @@ install_ssl(){
 mkdir -p /home/vps/public_html
 wget -q -O /etc/nginx/conf.d/vps.conf "https://raw.githubusercontent.com/Agunxzzz/XrayCol/main/vps.conf.txt"
 sleep 1
-wget -q -O xraymode.sh http://sgpx.cybervpn.site:81/Autoscript-by-azi-main/xraymode.sh && chmod +x xraymode.sh && ./xraymode.sh
+wget -q -O xraymode.sh https://raw.githubusercontent.com/kanghory/VPN/main/xraymode.sh && chmod +x xraymode.sh && ./xraymode.sh
 sleep 1 
 wget -q -O /etc/xray/config.json "http://sgpx.cybervpn.site:81/Autoscript-by-azi-main/configuration/config.json"
 chmod +x /etc/xray/config.json
