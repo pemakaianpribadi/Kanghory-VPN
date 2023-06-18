@@ -18,7 +18,7 @@ wget -q -O /usr/bin/cek-trafik "https://raw.githubusercontent.com/kanghory/VPN/m
 wget -q -O /usr/bin/cek-speed "https://raw.githubusercontent.com/kanghory/VPN/main/speedtes_cli.py"
 wget -q -O /usr/bin/cek-bandwidth "https://raw.githubusercontent.com/kanghory/VPN/main/cek-bandwidth.sh"
 wget -q -O /usr/bin/cek-ram "https://raw.githubusercontent.com/kanghory/VPN/main/ram.sh"
-wget -q -O /usr/bin/limit-speed "https://raw.githubusercontent.com/kanghoryVPN/xray-ws/main/limit-speed.sh"
+wget -q -O /usr/bin/limit-speed "https://raw.githubusercontent.com/kanghory/VPN/main/limit-speed.sh"
 wget -q -O /usr/bin/menu-vless "https://raw.githubusercontent.com/kanghory/VPN/main/menu-vless.sh"
 wget -q -O /usr/bin/menu-vmess "https://raw.githubusercontent.com/kanghory/VPN/main/menu-vmess.sh"
 #wget -q -O /usr/bin/menu-socks "https://raw.githubusercontent.com/Agunxzzz/XrayCol/main/minacantik/menu-socks.sh"
