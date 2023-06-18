@@ -184,6 +184,7 @@ echo -e "${BICyan} ⇲  ${BICyan}IP-VPS          :  ${BIYellow}$IPVPS${NC}"
 echo -e "${BICyan} ⇲  ${BICyan}ISP-VPS         :  ${BIYellow}$ISPVPS${NC}"
 echo -e "${BICyan} ⇲  ${BICyan}TOTAL RAM       :  ${BIYellow}${totalram}MB"
 echo -e "${BICyan} ⇲  ${BICyan}CPU Usage       :  $cpu_usage"
+echo -e "${BICyan} "
 
 echo -e "${CYAN}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m${NC}"
 echo -e "\E[39;1;92m STATUS HARI INI  :  ⇱ PINGIN MULYO KUDU WANI REKOSO ⇲             \E[0m"
