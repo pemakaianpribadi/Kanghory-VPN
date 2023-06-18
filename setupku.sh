@@ -1,5 +1,5 @@
 #!/bin/bash
-# // script credit by CyberVPN
+# // script credit by kang hory
 # // ini adalah script autoinstall ssh multiport untuk instalasi vpn server dan tunneling service
 MYIP=$(curl -sS ipv4.icanhazip.com)
 red='\e[1;31m'
