@@ -238,13 +238,6 @@ echo -e "${CYAN}━━━━━━━━━━━━━━━━━━━━━�
 echo -e "     ${BICyan} SSH ${NC}: $ressh"" ${BICyan} NGINX ${NC}: $resngx"" ${BICyan}  XRAY ${NC}: $resv2r"" ${BICyan} TROJAN ${NC}: $resv2r"
 echo -e "   ${BICyan}     STUNNEL ${NC}: $resst" "${BICyan} DROPBEAR ${NC}: $resdbr" "${BICyan} SSH-WS ${NC}: $ressshws"
 
-echo -e "${BICyan}┌──────────────────────────────────────────────────┐${NC}"
-echo -e "  ${GREEN}SSH      ${NC} : ${GREEN} ON ${NC}   "     
-echo -e "  ${GREEN}CRON     ${NC} : ${GREEN} ON ${NC}   "   
-echo -e "  ${GREEN}WEBSOCKET${NC} :  ${GREEN}ON${NC}    " 
-echo -e "  ${GREEN}DROPBEAR ${NC} :  ${GREEN}ON${NC}    " 
-echo -e "${BICyan}└──────────────────────────────────────────────────┘${NC}"
-
 echo -e "${GREEN}┌──────────────────────────────────────────────────┐${NC}"
 echo -e "${GREEN}│  \033[0m ${BOLD}${YELLOW}SSH     VMESS       VLESS      TROJAN       SHADOWSOCKS$NC  $COLOR1"
 echo -e "${GREEN}│  \033[0m ${Blue} $ssh1        $vma           $vla          $tra               $ssa   $NC"
